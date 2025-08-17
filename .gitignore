@@ -1,2 +1,5 @@
 .venv/
 /requirements_old.txt
+data/grozi-3.2k-testing.v1i.yolov11
+data/grozi-3.2k-testing.v1i.yolov11.zip
+models/my_model.zip
